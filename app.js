@@ -1,1 +1,1 @@
-
+console.write("hello world")
